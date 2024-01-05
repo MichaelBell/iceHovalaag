@@ -1,2 +1,2 @@
 ctx.addClock("clk12MHz", 12)
-ctx.addClock("slow_clk", 3)
+ctx.addClock("tt_clk", 12)

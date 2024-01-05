@@ -18,3 +18,30 @@ set_io --warn-no-port button3   A11
 set_io --warn-no-port button4   A5
 
 set_io --warn-no-port clk12MHz	P7
+
+set_io --warn-no-port tt_clk    A3
+set_io --warn-no-port tt_mgmt   A2
+set_io --warn-no-port tt_rst_n  B1
+
+set_io --warn-no-port tt_out[0] C3    
+set_io --warn-no-port tt_out[1] D3
+set_io --warn-no-port tt_out[2] D1
+set_io --warn-no-port tt_out[3] E1
+set_io --warn-no-port tt_out[4] K3
+set_io --warn-no-port tt_out[5] M3
+set_io --warn-no-port tt_out[6] G1
+set_io --warn-no-port tt_out[7] H11
+
+set_io --warn-no-port tt_in[0]  F3
+set_io --warn-no-port tt_in[1]  G3
+set_io --warn-no-port tt_in[2]  H3
+set_io --warn-no-port tt_in[3]  J3
+set_io --warn-no-port tt_in[4]  K14
+set_io --warn-no-port tt_in[5]  K12
+set_io --warn-no-port tt_in[6]  J12
+set_io --warn-no-port tt_in[7]  H12
+set_io --warn-no-port tt_in[8]  G14
+set_io --warn-no-port tt_in[9]  G12
+set_io --warn-no-port tt_in[10] F14
+set_io --warn-no-port tt_in[11] F12
+
